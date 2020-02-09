@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\testPC\source\repos\DLLHijack\DLLHijack\Source.cpp(6,1): warning C4273:  'thing_index': inconsistent dll linkage
+C:\Users\testPC\source\repos\DLLHijack\DLLHijack\Header.h(10,32): message :  see previous definition of 'thing_index'
+  DLLHijack.vcxproj -> C:\Users\testPC\source\repos\DLLHijack\Debug\DLLHijack.dll
